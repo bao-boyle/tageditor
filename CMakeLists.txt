@@ -169,7 +169,7 @@ set(REQUIRED_ICONS
     view-media-lyrics)
 
 # find c++utilities
-find_package(c++utilities 4.17.0 REQUIRED)
+find_package(c++utilities 5.0.0 REQUIRED)
 use_cpp_utilities()
 include(BasicConfig)
 
